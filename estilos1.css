@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
 } 
 .background{
    grid-column: span 3;
